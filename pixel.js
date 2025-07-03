@@ -48,4 +48,4 @@ blink = (x, y, w, h,color) => {
 };
 
 
-
+// todo check the bug - browser source code ant internals 
